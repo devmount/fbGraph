@@ -1,0 +1,2 @@
+error_file	= Es ist ein Fehler aufgetreten. Bitte die Facebook-ID "{PARAM1}" überprüfen!
+error_tag	= Es ist ein Fehler aufgetreten. Bitte überprüfen, ob das Tag "{PARAM1}" existiert.
