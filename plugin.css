@@ -1,14 +1,25 @@
 /*
-	fbGraph CSS styles
+    fbGraph CSS styles
 */
 
 .fbGraph {
 }
 
 .fbGraphError {
-	padding: 4px;
-	margin: 2px 0;
-	border: 1px solid red;
-	color: red;
-	background-color: #fdd;
+    display: table;
+    margin: 2px 0;
+    border: 1px solid #f33;
+    background-color: #fee;
+}
+.fbGraphError div {
+    display: table-cell;
+    padding: 2px 6px;
+    color: white;
+    background-color: #f33;
+    height: inherit;
+}
+.fbGraphError span {
+    display: table-cell;
+    padding: 2px 4px;
+    color: #f33;
 }
