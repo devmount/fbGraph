@@ -1,2 +1,3 @@
-error_file	= An error occured. Please check the facebook-id "{PARAM1}".
-error_tag	= An error occured. Please check if the tag "{PARAM1}" exists.
+error      = Error
+error_file = An error occured. Please check the facebook-id "{PARAM1}".
+error_tag  = An error occured. Please check if the tag "{PARAM1}" exists.
