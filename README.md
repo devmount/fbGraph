@@ -17,11 +17,11 @@ Installing a plugin manually requires FTP Access.
 
 ## Syntax
 ```{fbGraph|<id>|<tag>|<after>}```
-Here comes the general description of the plugin tag.
+Insert information from facebook graph.
 
-1. Parameter ```<id>```: Short description of parameter 1.
-2. Parameter ```<tag>```: Short description of parameter 2.
-3. Parameter ```<after>```: Short description of parameter 2.
+1. Parameter ```<id>```: Facebook ID of facebook profile or page - can be numeric or page name
+2. Parameter ```<tag>```: Information to get from facebook graph. Possible values are: ```about```, ```category```, ```company_overview```, ```founded```, ```description```, ```is_published```, ```talking_about_count```, ```username```, ```website```, ```were_here_count```, ```id```, ```name```, ```link``` and ```likes```
+3. Parameter ```<after>```: Text to display after information output.
 
 ## License
 This Plugin is distributed under *GNU General Public License, Version 3* (see LICENSE).
