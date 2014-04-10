@@ -47,7 +47,7 @@ class fbGraph extends Plugin
     // plugin information
     const PLUGIN_AUTHOR  = 'HPdesigner';
     const PLUGIN_DOCU
-        = 'http://devmount.de/Develop/Mozilo%20Plugins/fbGraph.html';
+        = 'http://devmount.de/Develop/moziloCMS/Plugins/fbGraph.html';
     const PLUGIN_TITLE   = 'fbGraph';
     const PLUGIN_VERSION = 'v0.1.2014-01-12';
     const MOZILO_VERSION = '2.0';
