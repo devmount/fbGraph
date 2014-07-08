@@ -9,15 +9,14 @@
  *
  * @category PHP
  * @package  PHP_MoziloPlugins
- * @author   HPdesigner <kontakt@devmount.de>
- * @license  GPL v3
+ * @author   HPdesigner <mail@devmount.de>
+ * @license  GPL v3+
  * @version  GIT: v0.1.2014-01-12
  * @link     https://github.com/devmount/fbGraph
- * @link     http://devmount.de/Develop/Mozilo%20Plugins/fbGraph.html
- * @see      “I have the right to do anything,” you say
- *           — but not everything is beneficial.
- *           “I have the right to do anything”
- *           — but I will not be mastered by anything.
+ * @link     http://devmount.de/Develop/moziloCMS/Plugins/fbGraph.html
+ * @see      “I have the right to do anything,” you say — but not everything is
+ *           beneficial. “I have the right to do anything” — but I will not be
+ *           mastered by anything.
  *            - The Bible
  *
  * Plugin created by DEVMOUNT
@@ -35,8 +34,8 @@ if (!defined('IS_CMS')) {
  *
  * @category PHP
  * @package  PHP_MoziloPlugins
- * @author   HPdesigner <kontakt@devmount.de>
- * @license  GPL v3
+ * @author   HPdesigner <mail@devmount.de>
+ * @license  GPL v3+
  * @link     https://github.com/devmount/fbGraph
  */
 class fbGraph extends Plugin
