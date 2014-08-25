@@ -1,2 +1,3 @@
 tag_1       = Gibt die gewünschte Facebook-Information zurück.
 description = Liest den Facebook-Graph aus und gibt entsprechende Informationen zurück. <br /><br /><span style='font-weight:bold'>Nutzung:</span><br /><span style='font-family:monospace;margin:3px 3px; background-color:#eee;border:1px dotted #aaa;'>{PARAM1}</span> Fügt eine spezifische Information (tag) einer bestimmten Facebook-Seite (id) ein und hängt optional gewünschten Text (after) an.<br /><br /><span style='font-weight:bold'>Dokumentation:</span><br />Eine ausführliche Dokumentation ist auf <span style="font-style:italic">www.devmount.de</span> zu finden (siehe obenstehender Link).
+on_devmount = auf devmount.de
