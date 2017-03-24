@@ -16,7 +16,9 @@ Installing a plugin manually requires FTP Access.
 - Go to the backend tab *Plugins* and activate the now listed new fbGraph plugin
 
 ## Syntax
-```{fbGraph|<id>|<tag>|<after>}```
+```
+{fbGraph|<id>|<tag>|<after>}
+```
 Insert information from facebook graph.
 
 1. Parameter ```<id>```: Facebook ID of facebook profile or page - can be numeric or page name
@@ -28,4 +30,4 @@ This Plugin is distributed under *GNU General Public License, Version 3* (see LI
 
 ## Documentation
 A detailed documentation and demo can be found on DEVMOUNT's website:
-http://devmount.de/Develop/moziloCMS/Plugins/fbGraph.html
+http://t.devmount.de/Develop/moziloCMS/Plugins/fbGraph.html
