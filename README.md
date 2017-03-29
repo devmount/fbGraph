@@ -1,9 +1,9 @@
-fbGraph
-=======
-
+# fbGraph
 A Plugin for moziloCMS 2.0
 
 Reads the facebook graph and returns specific information.
+
+**Attention:** This plugin is no longer working, since facebook updated it's graph API to version 2, where unauthorized access is no longer possible.
 
 ## Installation
 #### With moziloCMS installer
@@ -29,5 +29,5 @@ Insert information from facebook graph.
 This Plugin is distributed under *GNU General Public License, Version 3* (see LICENSE) or, at your choice, any further version.
 
 ## Documentation
-A detailed documentation and demo can be found on DEVMOUNT's website:
-http://t.devmount.de/Develop/moziloCMS/Plugins/fbGraph.html
+A detailed documentation and demo can be found here:
+https://github.com/devmount-mozilo/fbGraph/wiki/Dokumentation [german]
