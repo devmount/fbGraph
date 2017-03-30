@@ -12,8 +12,7 @@
  * @author   DEVMOUNT <mail@devmount.de>
  * @license  GPL v3+
  * @version  GIT: v0.1.2014-01-12
- * @link     https://github.com/devmount/fbGraph
- * @link     http://devmount.de/Develop/moziloCMS/Plugins/fbGraph.html
+ * @link     https://github.com/devmount-mozilo/fbGraph/wiki/Dokumentation
  * @see      “I have the right to do anything,” you say — but not everything is
  *           beneficial. “I have the right to do anything” — but I will not be
  *           mastered by anything.
@@ -49,7 +48,7 @@ class fbGraph extends Plugin
     const PLUGIN_VERSION = 'v0.1.2014-01-12';
     const MOZILO_VERSION = '2.0';
     const PLUGIN_DOCU
-        = 'http://devmount.de/Develop/moziloCMS/Plugins/fbGraph.html';
+        = 'https://github.com/devmount-mozilo/fbGraph/wiki/Dokumentation';
 
     private $_plugin_tags = array(
         '1' => '{fbGraph|id|tag|after}',
